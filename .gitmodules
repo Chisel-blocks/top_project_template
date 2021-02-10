@@ -1,0 +1,6 @@
+[submodule "chisel-blocks-utils"]
+	path = chisel-blocks-utils
+	url = git@github.com:Chisel-blocks/chisel-blocks-utils.git
+[submodule "register_template"]
+	path = register_template
+	url = git@github.com:Chisel-blocks/register_template.git
